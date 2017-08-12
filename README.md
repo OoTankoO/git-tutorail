@@ -6,4 +6,3 @@
 - feature-C
 
 - switch remote to ssh
-- from git2
