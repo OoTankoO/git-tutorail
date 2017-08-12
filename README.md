@@ -4,3 +4,5 @@
 - feature-A
 - fix-B
 - feature-C
+
+- switch remote to ssh
